@@ -1,0 +1,16 @@
+fastapi[all]
+uvicorn
+python-dotenv
+pydantic[dotenv]
+sentence-transformers
+faiss-cpu
+pymupdf
+pdfplumber
+elasticsearch
+redis
+langchain
+textstat
+numpy
+pandas
+streamlit
+requests
