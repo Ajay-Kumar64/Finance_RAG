@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+elasticsearch==8.11.1
+python-dotenv
+google-genai>=0.10.1
+
